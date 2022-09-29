@@ -4,7 +4,7 @@
 
 1. Install dependencies:
 
-   >npm i
+   `npm i`
 
 2. Create database in MySQL
 
@@ -23,5 +23,4 @@ CREATE TABLE `users` (
 
 ---
 
-- JavaScript library to display alerts and confirmation dialogs
-  `https://sweetalert2.github.io/`
+- JavaScript library to display alerts and confirmation dialogs: [sweetalert2](https://sweetalert2.github.io/)
