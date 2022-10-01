@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=19F702&width=450&lines=Users+Login+with%3A+NodeJS%2C+MySQL+%26+EJS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=19F702&width=460&lines=Users+Login+with%3A+NodeJS%2C+MySQL+%26+EJS" alt="Typing SVG" /></a>
 
 # Guide
 
